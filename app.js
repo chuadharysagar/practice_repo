@@ -1,5 +1,6 @@
 console.log("hello world from me");
 
-console.log("wea are gonna solve merge conflict in github");console.log("hello world from feature 1");
+console.log("this is a new change in feature-1");
 
 console.log("solve the merge confilct in this code");
+console.log("hellu new chnage from feature 1");
